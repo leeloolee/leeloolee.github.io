@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Lee Loo Lee
+title: Lee Loo Lee Laa | As you wish
+description: Lee Loo Lee's personal blog
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: yunscien@naver.com
 disqus_username: disqus_username
 show_hero: true
 menu:
