@@ -6,9 +6,9 @@ subtitle: Boltzman machine.
 description: Boltzman machine.
 image: https://github.com/leeloolee/leeloolee.github.io/blob/master/Restricted-Boltzmann-Machine.jpg?raw=true
 optimized_image: https://github.com/leeloolee/leeloolee.github.io/blob/master/Restricted-Boltzmann-Machine.jpg?raw=true
-category: work
+category: life
 tags:
-  - work
+  - life
   - career
 author: leeloolee
 ---
